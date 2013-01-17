@@ -10,4 +10,4 @@ to change their name and icon.
 Install
 ----------------
 
-Put this plugin into plugins directry of your AsakusaSatellite
+Put this plugin into plugins directory of your AsakusaSatellite
